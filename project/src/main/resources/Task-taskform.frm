@@ -1,0 +1,1 @@
+{"id":"0cf50c9d-1f79-4cbb-9559-8f0d06bda10c","name":"Task-taskform.frm","model":{"taskName":"Task","processId":"soaINT.tramitesinternos","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
